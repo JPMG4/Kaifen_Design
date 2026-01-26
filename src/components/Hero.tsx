@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { ArrowRight, Coffee } from "lucide-react";
-import heroImage from "@/assets/hero-mugs.jpg";
+import heroImage from "@/assets/kaifen_background.png";
 
 const Hero = () => {
   return (

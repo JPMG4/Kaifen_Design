@@ -7,11 +7,11 @@ const features = [
     title: "100% Personalizable",
     description: "Tu diseño, tus colores, tu estilo. Cada mug es tan único como tú.",
   },
-  {
+  /*{
     icon: Clock,
     title: "Entrega Rápida",
     description: "Producimos y entregamos tu pedido en tiempo récord.",
-  },
+  },*/
   {
     icon: Shield,
     title: "Alta Calidad",
@@ -43,7 +43,7 @@ const Features = () => {
           </h2>
         </motion.div>
 
-        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 place-items-center">
           {features.map((feature, index) => (
             <motion.div
               key={feature.title}
