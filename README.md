@@ -58,11 +58,4 @@ El proyecto sigue principios modernos de desarrollo frontend:
 ✔ Estructura preparada para integración con APIs  
 ✔ Preparado para serverless functions (carpeta netlify)
 
-Esto permite que el sistema crezca hacia:
-
-- Carrito de compras  
-- Autenticación  
-- Gestión de pedidos  
-- Inventario  
-- Pasarelas de pago  
 ---
