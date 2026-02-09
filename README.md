@@ -31,6 +31,9 @@ Incluye versión productiva generada en `/dist`.
 ![Kaifen Demo](docs/demo.gif)
 
 ---
+### 📱 Mobile Experience
+
+![Mobile Demo](docs/demo-mobile.gif)
 
 ## 🧰 Stack tecnológico
 
