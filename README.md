@@ -23,6 +23,7 @@ personas que buscan regalos personalizados o compras por encargo.
 ## 🌐 Live Demo
 https://kaifendesign.netlify.app/
 Proyecto desplegado en **Netlify**
+
 Incluye versión productiva generada en `/dist`.
 
 ## 🎥 Product Walkthrough
