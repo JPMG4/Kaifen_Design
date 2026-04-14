@@ -1,61 +1,60 @@
-# Kaifen Design ☕ — Plataforma Web para Mugs Personalizables
+# Kaifen Design ☕ — Custom Mug Web Platform
 
-Aplicación web desarrollada para **Kaifen Design**, un emprendimiento enfocado en la venta de **mugs personalizados**.  
-El sistema permite presentar productos, fortalecer la identidad de marca y preparar la base tecnológica para futuras funcionalidades de comercio electrónico.
+Web application built for **Kaifen Design**, a brand focused on **custom mugs**.  
+The system showcases products, strengthens brand identity, and lays the technical foundation for future e-commerce features.
 
-Este proyecto fue construido con tecnologías modernas de frontend priorizando **escalabilidad, mantenibilidad y experiencia de usuario**.
+This project was built with modern frontend technologies, prioritizing **scalability, maintainability, and user experience**.
 
 ---
-## 🌐 Propósito del producto
+## 🌐 Product purpose
 
-La plataforma busca:
+The platform aims to:
 
-- Exhibir el catálogo de mugs
-- Comunicar opciones de personalización
-- Facilitar el contacto con clientes
-- Servir como base para evolucionar a e-commerce
+- Showcase the mug catalog
+- Communicate customization options
+- Make it easy to contact customers
+- Serve as a foundation for evolving into e-commerce
 
-Usuario objetivo:
-personas que buscan regalos personalizados o compras por encargo.
+Target users:
+people looking for personalized gifts or custom orders.
 ---
 
-## 🚀 Demo técnico
+## 🚀 Technical demo
 ## 🌐 Live Demo
 https://kaifendesign.netlify.app/
-Proyecto desplegado en **Netlify**
+Project deployed on **Netlify**
 
-Incluye versión productiva generada en `/dist`.
+Includes the production build in `/dist`.
 
-## 🎥 Product Walkthrough
+## 🎥 Product walkthrough
 
 ![Kaifen Demo](docs/demo.gif)
 
 ---
-### 📱 Mobile Experience
+### 📱 Mobile experience
 
 ![Mobile Demo](docs/demo-mobile.gif)
 
-## 🧰 Stack tecnológico
+## 🧰 Tech stack
 
 - **React**
 - **TypeScript**
 - **Vite**
 - **Tailwind CSS**
 - React Router
-- Hooks personalizados
+- Custom hooks
 - ESLint
-- Vitest (base de testing)
+- Vitest (testing foundation)
 ---
 
-## 🧠 Enfoque de arquitectura
+## 🧠 Architecture approach
 
-El proyecto sigue principios modernos de desarrollo frontend:
+The project follows modern frontend principles:
 
-✔ Separación por **pages**  
-✔ Componentes reutilizables  
-✔ Manejo de estado mediante hooks  
-✔ Configuración optimizada para build rápido  
-✔ Estructura preparada para integración con APIs  
-✔ Preparado para serverless functions (carpeta netlify)
-
+✔ Separation by **pages**  
+✔ Reusable components  
+✔ State management via hooks  
+✔ Optimized fast build configuration  
+✔ Structure ready for API integration  
+✔ Prepared for serverless functions (netlify folder)
 ---
