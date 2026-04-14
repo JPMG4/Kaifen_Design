@@ -21,8 +21,8 @@ people looking for personalized gifts or custom orders.
 
 ## 🚀 Technical demo
 ## 🌐 Live Demo
-https://kaifendesign.netlify.app/
-Project deployed on **Netlify**
+www.kaifendesign.app
+Project deployed on **Vercel**
 
 Includes the production build in `/dist`.
 
@@ -44,7 +44,7 @@ Includes the production build in `/dist`.
 - React Router
 - Custom hooks
 - ESLint
-- Vitest (testing foundation)
+- Vitest
 ---
 
 ## 🧠 Architecture approach
@@ -56,5 +56,5 @@ The project follows modern frontend principles:
 ✔ State management via hooks  
 ✔ Optimized fast build configuration  
 ✔ Structure ready for API integration  
-✔ Prepared for serverless functions (netlify folder)
+✔ Prepared for serverless functions
 ---

@@ -58,7 +58,7 @@ const Hero = () => {
               <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
             </a>
             <a
-              href="https://heyzine.com/flip-book/c6919e4198.html"
+              href="https://heyzine.com/flip-book/1665c78881.html"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 border-2 border-cream/60 text-cream px-8 py-4 rounded-full hover:bg-cream hover:text-brown transition-colors group"
